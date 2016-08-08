@@ -1,0 +1,100 @@
+body {
+    background-image: url('img/bg.jpg');
+	text-align: center;
+	margin: 0px;
+	padding: 0px;
+}
+.wrapper {
+    background-color:black;
+	text-align: left;
+	width: 780px;
+	margin-top: 5px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+ 
+}
+.header {
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.content {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+}
+.logo{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-transform: uppercase;
+    font-weight: bold;
+    color: white;
+    margin-left: 0px;
+    padding-top: 20px;
+    padding-left: 20px;
+    text-align: left;
+    letter-spacing: -2px;
+    width: 100%;
+    
+}
+
+.punchline {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color:#C69C6D;
+    padding-left: 20px;
+    padding-top: -5px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link, a:visited {
+    color: white;
+
+}
+
+a:hover, a:active{
+    background-color: yellow;
+    color: black;
+}
+
+.nav{
+    height: 370px;
+    width: 200px;
+    color: black;
+    float: left;
+}
+.categories{
+    height: 370px;
+    width: 200px;
+    background-color: white;
+    color: white;
+    float: right;
+}
+.topcontent{
+    width: 380px;
+    height: 180px;
+    float: left;
+    color: black;
+    background-color: black;
+}
+.bottomcontent{
+    width: 380px;
+    height: 180px;
+    float: left;
+    color: black;
+    background-color: dimgray;
+}
+.banner{
+    height: 180px;
+    background-color: dimgray;
+}
+
+.main-Footer p{
+    width: 92%;
+    margin: 10px auto;
+    color: #FFF;
+}
